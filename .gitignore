@@ -1,0 +1,4 @@
+# Never publish the CV PDF (contains phone number)
+*.pdf
+.DS_Store
+.env
